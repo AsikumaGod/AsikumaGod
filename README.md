@@ -7,3 +7,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: wrote my first code in 2018
 
+<img src="https://streak-stats.demolab.com?user=AsikumaGod&theme=highcontrast&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsikumaGod&layout=compact" alt="Top Languages" />
